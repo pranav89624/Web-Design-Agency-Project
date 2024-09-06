@@ -7,7 +7,7 @@ Usage :
   OR
   Go to the website I provided in the about section of this repository.
   OR
-  Simply just <a href="https://pranav89624.github.io/Web-Design-Agency-Project/">Tap Here</a>
+  Simply just <a href="https://pranav89624.github.io/Web-Design-Agency-Project/" target="_blank">Tap Here</a>
   The project is fully responsive and optimized for various screen sizes.
 </pre>
 <br><br>
