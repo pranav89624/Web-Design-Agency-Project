@@ -6,6 +6,8 @@ Usage :
   Simply open the index.html file in your preferred web browser to see this site in action.
   OR
   Go to the website I provided in the about section of this repository.
+  OR
+  Simply just <a href="https://pranav89624.github.io/Web-Design-Agency-Project/">Tap Here</a>
   The project is fully responsive and optimized for various screen sizes.
 </pre>
 <br><br>
